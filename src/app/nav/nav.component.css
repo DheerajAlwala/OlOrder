@@ -1,0 +1,18 @@
+body {
+    padding-bottom: 20px;
+  }
+  a{
+    font-size: 20px;
+  }
+  .navbar {
+    margin-bottom: 20px;
+  }
+  .logo
+  {
+    height: max-content;
+    width: 90px;
+  }
+  .nav-link{
+    color: white;
+  }
+  
