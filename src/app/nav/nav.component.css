@@ -9,8 +9,8 @@ body {
   }
   .logo
   {
-    height: max-content;
-    width: 90px;
+    height: 50px;
+    width: 70px;
   }
   .nav-link{
     color: white;
